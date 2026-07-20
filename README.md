@@ -5,7 +5,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/university-of-guelph-wordmark-dark-v1.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/branding/university-of-guelph-wordmark-light-v1.png">
-      <img src="./assets/branding/university-of-guelph-wordmark-light-v1.png" alt="University of Guelph" width="200">
+      <img src="./assets/branding/university-of-guelph-wordmark-light-v1.png" alt="University of Guelph" width="210">
     </picture>
   </a>
 </p>
