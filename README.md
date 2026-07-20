@@ -1,7 +1,11 @@
 <h1 align="center">Ivan Sostaric</h1>
 
 <p align="center">
-  Computer Science + AI · University of Guelph
+  Computer Science + AI
+</p>
+
+<p align="center">
+  <a href="https://www.uoguelph.ca/"><img src="./assets/branding/university-of-guelph-v1.png" alt="University of Guelph" width="220"></a>
 </p>
 
 <p align="center">
