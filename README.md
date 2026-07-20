@@ -22,7 +22,7 @@
   <a href="mailto:ivansostaric64@gmail.com"><img src="./assets/buttons/email.svg" alt="Email" height="38"></a>
 </p>
 
-I build practical software across full-stack development, data, and machine learning. Currently working as an **Anti-Money Laundering Investigator Intern at BMO**.
+I'm pursuing a Bachelor of Computing in Computer Science at the University of Guelph, specializing in Artificial Intelligence with a Business minor. My background combines software engineering, data analytics, and AI, with a focus on building full-stack applications with robust architecture, scalable backends, and intuitive frontends. The intersection of AI and business is also a key interest of mine, especially using data, automation, and intelligent systems to improve decision-making, create better products, and turn technical ideas into practical value.
 
 ### Selected work
 
