@@ -27,14 +27,12 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
 ### Currently
 
 <p>
-  <a href="https://www.bmo.com/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/bmo-wordmark-dark-v1.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/branding/bmo-wordmark-light-v1.svg">
-      <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="28">
-    </picture>
-  </a>
-  <strong>Anti-Money Laundering Investigator Intern at BMO</strong>
+  <strong>Intern @</strong>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/bmo-wordmark-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/branding/bmo-wordmark-light-v1.svg">
+    <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="24">
+  </picture>
 </p>
 
 ### Selected work
