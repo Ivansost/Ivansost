@@ -1,11 +1,17 @@
 <h1 align="center">Ivan Sostaric</h1>
 
 <p align="center">
-  Computer Science + AI
+  <a href="https://www.uoguelph.ca/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/university-of-guelph-dark-v3.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/branding/university-of-guelph-v1.png">
+      <img src="./assets/branding/university-of-guelph-v1.png" alt="University of Guelph" width="220">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.uoguelph.ca/"><img src="./assets/branding/university-of-guelph-v1.png" alt="University of Guelph" width="220"></a>
+  Major in Computer Science + AI · Minor in Business
 </p>
 
 <p align="center">
