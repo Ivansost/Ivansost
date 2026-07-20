@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivansost/"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="38"></a>
+  <a href="https://www.linkedin.com/in/ivansost/"><img src="./assets/buttons/linkedin-compact.svg" alt="LinkedIn" height="38"></a>
   <a href="https://www.ivansostaric.com"><img src="./assets/buttons/portfolio.svg" alt="Portfolio" height="38"></a>
   <a href="https://www.ivansostaric.com/Ivan_Sostaric_Resume.pdf"><img src="./assets/buttons/resume.svg" alt="Résumé" height="38"></a>
   <a href="mailto:ivansostaric64@gmail.com"><img src="./assets/buttons/email.svg" alt="Email" height="38"></a>
