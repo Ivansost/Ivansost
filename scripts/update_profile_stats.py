@@ -75,8 +75,8 @@ def render_stats(public_repositories: int, solved_problems: int) -> str:
     return (
         f"{START_MARKER}\n"
         "```text\n"
-        f"public_repositories .... {public_repositories}\n"
-        f"neetcode_dsa_solved .... {solved_problems} unique problems\n"
+        f"{public_repositories} public repositories  ·  "
+        f"{solved_problems} unique NeetCode problems solved\n"
         "```\n"
         f"{END_MARKER}"
     )
