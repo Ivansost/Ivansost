@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.ivansostaric.com">Portfolio</a> ·
-  <a href="https://www.ivansostaric.com/Ivan_Sostaric_Resume.pdf">Résumé</a> ·
-  <a href="https://www.linkedin.com/in/ivansost/">LinkedIn</a> ·
-  <a href="mailto:ivansostaric64@gmail.com">Email</a>
+  <a href="https://www.ivansostaric.com"><img src="./assets/buttons/portfolio.svg" alt="Portfolio" height="38"></a>
+  <a href="https://www.ivansostaric.com/Ivan_Sostaric_Resume.pdf"><img src="./assets/buttons/resume.svg" alt="Résumé" height="38"></a>
+  <a href="mailto:ivansostaric64@gmail.com"><img src="./assets/buttons/email.svg" alt="Email" height="38"></a>
+  <a href="https://www.linkedin.com/in/ivansost/"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" height="38"></a>
 </p>
 
 I build practical software across full-stack development, data, and machine learning. Currently working as an **Anti-Money Laundering Investigator Intern at BMO**.
