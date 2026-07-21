@@ -31,18 +31,11 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/bmo-wordmark-dark-v2.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/branding/bmo-wordmark-light-v1.svg">
-    <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="20">
+    <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="20" align="middle">
   </picture>
-  &nbsp;&nbsp;│&nbsp;&nbsp;<strong>Current focus</strong>
+  &nbsp;&nbsp;│&nbsp;&nbsp;
+  Currently, as an Anti-Money Laundering Intern at Bank of Montreal, I’m transforming routine investigator work—such as Excel analysis and Word report preparation—into accurate, reusable prompts that streamline recurring tasks and save time.
 </p>
-
-<table>
-  <tr>
-    <td>
-      Currently, as an Anti-Money Laundering Intern at Bank of Montreal, I’m transforming routine investigator work—such as Excel analysis and Word report preparation—into accurate, reusable prompts that streamline recurring tasks and save time.
-    </td>
-  </tr>
-</table>
 
 ### Selected work
 
