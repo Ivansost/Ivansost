@@ -18,8 +18,8 @@ START_MARKER = "<!-- PROFILE-STATS:START -->"
 END_MARKER = "<!-- PROFILE-STATS:END -->"
 README_PATH = Path(__file__).resolve().parents[1] / "README.md"
 STATS_DIR = README_PATH.parent / "assets" / "stats"
-DARK_STATS_PATH = STATS_DIR / "profile-stats-dark.svg"
-LIGHT_STATS_PATH = STATS_DIR / "profile-stats-light.svg"
+DARK_STATS_PATH = STATS_DIR / "profile-stats-dark-v2.svg"
+LIGHT_STATS_PATH = STATS_DIR / "profile-stats-light-v2.svg"
 
 
 def github_api(endpoint: str) -> object:
@@ -127,9 +127,9 @@ def render_stats(public_repositories: int, solved_problems: int) -> str:
         f"{START_MARKER}\n"
         '<p align="center">\n'
         "  <picture>\n"
-        '    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/profile-stats-dark.svg">\n'
-        '    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/profile-stats-light.svg">\n'
-        f'    <img src="./assets/stats/profile-stats-light.svg" alt="{public_repositories} public repositories and {solved_problems} NeetCode data structures and algorithms problems solved" width="620">\n'
+        '    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/profile-stats-dark-v2.svg">\n'
+        '    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/profile-stats-light-v2.svg">\n'
+        f'    <img src="./assets/stats/profile-stats-light-v2.svg" alt="{public_repositories} public repositories and {solved_problems} NeetCode data structures and algorithms problems solved" width="620">\n'
         "  </picture>\n"
         "</p>\n"
         f"{END_MARKER}"
