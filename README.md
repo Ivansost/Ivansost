@@ -28,9 +28,9 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/current-role-label-dark-v3.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/branding/current-role-label-light-v3.svg">
-    <img src="./assets/branding/current-role-label-light-v3.svg" alt="BMO" width="180" height="64" align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/current-role-label-dark-v4.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/branding/current-role-label-light-v4.svg">
+    <img src="./assets/branding/current-role-label-light-v4.svg" alt="BMO" width="205" height="64" align="left">
   </picture>
   Currently, as an Anti-Money Laundering Investigator Intern at Bank of Montreal, I’m transforming routine work, such as transaction analysis of large datasets in Excel and repetitive Word document reporting, by prompt engineering workflows that improve efficiency using the latest AI models and agents.
 </p>
