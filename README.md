@@ -32,7 +32,7 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
     <source media="(prefers-color-scheme: light)" srcset="./assets/branding/current-role-label-light-v2.svg">
     <img src="./assets/branding/current-role-label-light-v2.svg" alt="BMO" width="180" height="64" align="left">
   </picture>
-  Currently, as an Anti-Money Laundering Investigator Intern at Bank of Montreal, I’m transforming routine work—such as transaction analysis of large datasets in Excel and repetitive Word document reporting—through prompt engineering and the latest AI models and agents to make workflows more time-efficient and effective.
+  Currently, as an Anti-Money Laundering Investigator Intern at Bank of Montreal, I’m transforming routine work, such as transaction analysis of large datasets in Excel and repetitive Word document reporting, by prompt engineering workflows that improve efficiency using the latest AI models and agents.
 </p>
 
 <br clear="all">
