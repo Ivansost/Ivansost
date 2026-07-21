@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ivansost/"><img src="./assets/buttons/linkedin-compact-v2.svg" alt="LinkedIn" height="38"></a>
   <a href="https://www.ivansostaric.com"><img src="./assets/buttons/portfolio.svg" alt="Portfolio" height="38"></a>
-  <a href="https://www.ivansostaric.com/Ivan_Sostaric_Resume.pdf"><img src="./assets/buttons/resume.svg" alt="Résumé" height="38"></a>
+  <a href="https://www.ivansostaric.com/Ivan_Sostaric_Resume.pdf"><img src="./assets/buttons/resume-v2.svg" alt="Resume" height="38"></a>
   <a href="mailto:ivansostaric64@gmail.com"><img src="./assets/buttons/email.svg" alt="Email" height="38"></a>
 </p>
 
@@ -32,7 +32,7 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
     <source media="(prefers-color-scheme: light)" srcset="./assets/branding/current-role-label-light-v2.svg">
     <img src="./assets/branding/current-role-label-light-v2.svg" alt="BMO" width="180" height="64" align="left">
   </picture>
-  Currently, as an Anti-Money Laundering Intern at Bank of Montreal, I’m transforming routine investigator work—such as Excel analysis and Word report preparation—into accurate, reusable prompts that streamline recurring tasks and save time.
+  Currently, as an Anti-Money Laundering Investigator Intern at Bank of Montreal, I’m transforming routine work—such as transaction analysis of large datasets in Excel and repetitive Word document reporting—through prompt engineering and the latest AI models and agents to make workflows more time-efficient and effective.
 </p>
 
 <br clear="all">
