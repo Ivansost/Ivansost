@@ -37,8 +37,6 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
 
 <br clear="all">
 
-### Stats
-
 <!-- PROFILE-STATS:START -->
 <p align="center">
   <picture>
