@@ -33,6 +33,7 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
     <source media="(prefers-color-scheme: light)" srcset="./assets/branding/bmo-wordmark-light-v1.svg">
     <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="20">
   </picture>
+  &nbsp;&nbsp;│&nbsp;&nbsp;<strong>Current focus</strong>
 </p>
 
 <table>
