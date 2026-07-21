@@ -37,27 +37,16 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
 
 <br clear="all">
 
-### Selected work
-
-- **[GitZero](https://github.com/Ivansost/gitzero)** — explainable CLI and ML tooling for detecting signals of AI-assisted code.
-- **[AML Network Analytics](https://www.ivansostaric.com/projects/aml)** — transaction graph analysis with SQL, NetworkX, risk scoring, and Power BI.
-- **[Credit Risk Analysis](https://github.com/Ivansost/Credit-Risk-Scoring)** — Random Forest credit-risk model trained on 30,000 customer records.
-- **[TravelPal](https://github.com/Ivansost/gdschacks25)** — AI-powered sustainable trip planner built with Next.js, Gemini, and Convex.
-
-### Technical Skills
-
-- **Languages:** Python, Java, SQL, JavaScript, TypeScript, C/C++, HTML/CSS, R
-- **Frontend & Backend:** React, Next.js, Node.js, REST APIs, GraphQL, JSON, API Design
-- **Data & AI:** Pandas, NumPy, scikit-learn, PyTorch, Matplotlib, Machine Learning, Data Pipelines
-- **Cloud & Databases:** AWS Lambda, Amazon RDS, Azure, Databricks, SQLite, PostgreSQL
-- **Tools & Practices:** Git, Docker, Power BI, Tableau, Jira, SDLC, Agile/Scrum, Unit Testing
-
 ### Stats
 
 <!-- PROFILE-STATS:START -->
-```text
-11 public repositories  ·  15 unique NeetCode problems solved
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/profile-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/profile-stats-light.svg">
+    <img src="./assets/stats/profile-stats-light.svg" alt="11 public repositories and 15 unique NeetCode problems solved" width="620">
+  </picture>
+</p>
 <!-- PROFILE-STATS:END -->
 
 <sub>Updated automatically from GitHub and my NeetCode submissions.</sub>
