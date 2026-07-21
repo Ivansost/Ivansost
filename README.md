@@ -26,16 +26,17 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
 
 ### Currently
 
+<p>
+  <strong>Intern @</strong>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/bmo-wordmark-dark-v2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/branding/bmo-wordmark-light-v1.svg">
+    <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="20">
+  </picture>
+</p>
+
 <table>
   <tr>
-    <td valign="middle" width="150">
-      <strong>Intern @</strong>&nbsp;
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/bmo-wordmark-dark-v2.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/branding/bmo-wordmark-light-v1.svg">
-        <img src="./assets/branding/bmo-wordmark-light-v1.svg" alt="BMO" height="20">
-      </picture>
-    </td>
     <td>
       Currently, as an Anti-Money Laundering Intern at Bank of Montreal, I’m transforming routine investigator work—such as Excel analysis and Word report preparation—into accurate, reusable prompts that streamline recurring tasks and save time.
     </td>
