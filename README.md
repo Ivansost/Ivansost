@@ -42,7 +42,7 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/profile-stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/stats/profile-stats-light.svg">
-    <img src="./assets/stats/profile-stats-light.svg" alt="11 public repositories and 15 unique NeetCode problems solved" width="620">
+    <img src="./assets/stats/profile-stats-light.svg" alt="11 public repositories and 15 NeetCode data structures and algorithms problems solved" width="620">
   </picture>
 </p>
 <!-- PROFILE-STATS:END -->

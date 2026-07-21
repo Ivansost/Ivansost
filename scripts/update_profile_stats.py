@@ -84,13 +84,13 @@ def render_stats_svg(
 ) -> str:
     return f'''<svg width="620" height="78" viewBox="0 0 620 78" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Profile stats</title>
-  <desc id="desc">{public_repositories} public repositories and {solved_problems} unique NeetCode problems solved.</desc>
+  <desc id="desc">{public_repositories} public repositories and {solved_problems} NeetCode data structures and algorithms problems solved.</desc>
   <rect x="1" y="1" width="618" height="76" rx="8" fill="{background}" stroke="{foreground}" stroke-width="2"/>
   <path d="M310 14V64" stroke="{divider}" stroke-width="1"/>
   <text x="155" y="37" fill="{foreground}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="28" font-weight="700" text-anchor="middle">{public_repositories}</text>
   <text x="155" y="59" fill="{foreground}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" text-anchor="middle">public repositories</text>
   <text x="465" y="37" fill="{foreground}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="28" font-weight="700" text-anchor="middle">{solved_problems}</text>
-  <text x="465" y="59" fill="{foreground}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" text-anchor="middle">unique NeetCode problems solved</text>
+  <text x="465" y="59" fill="{foreground}" font-family="ui-sans-serif, system-ui, sans-serif" font-size="11" text-anchor="middle">NeetCode data structures &amp; algorithms problems solved</text>
 </svg>
 '''
 
@@ -129,7 +129,7 @@ def render_stats(public_repositories: int, solved_problems: int) -> str:
         "  <picture>\n"
         '    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats/profile-stats-dark.svg">\n'
         '    <source media="(prefers-color-scheme: light)" srcset="./assets/stats/profile-stats-light.svg">\n'
-        f'    <img src="./assets/stats/profile-stats-light.svg" alt="{public_repositories} public repositories and {solved_problems} unique NeetCode problems solved" width="620">\n'
+        f'    <img src="./assets/stats/profile-stats-light.svg" alt="{public_repositories} public repositories and {solved_problems} NeetCode data structures and algorithms problems solved" width="620">\n'
         "  </picture>\n"
         "</p>\n"
         f"{END_MARKER}"
