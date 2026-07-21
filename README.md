@@ -24,11 +24,7 @@
 
 I'm pursuing a Bachelor of Computing in Computer Science at the University of Guelph, specializing in Artificial Intelligence with a Business minor. My background combines software engineering, data analytics, and AI, with a focus on building full-stack applications with robust architecture, scalable backends, and intuitive frontends. The intersection of AI and business is also a key interest of mine, especially using data, automation, and intelligent systems to improve decision-making, create better products, and turn technical ideas into practical value.
 
-### Currently
-
-<p align="center">
-  <strong>Summer Intern at Bank of Montreal</strong>
-</p>
+### Currently · Summer Intern at Bank of Montreal
 
 <p>
   <picture>
