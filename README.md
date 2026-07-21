@@ -46,26 +46,34 @@ I'm pursuing a Bachelor of Computing in Computer Science at the University of Gu
 
 ### Technical Skills
 
-<!-- Logos sourced from theSVG (MIT): https://thesvg.org/ -->
+<!-- Icons sourced from theSVG (MIT) and normalized for this README: https://thesvg.org/ -->
 <p align="center">
   <strong>Languages</strong><br>
-  <img src="./assets/skills/python.svg" alt="Python" title="Python" height="34"> <img src="./assets/skills/java.svg" alt="Java" title="Java" height="34"> <img src="./assets/skills/javascript.svg" alt="JavaScript" title="JavaScript" height="34"> <img src="./assets/skills/typescript.svg" alt="TypeScript" title="TypeScript" height="34"> <img src="./assets/skills/c.svg" alt="C" title="C" height="34"> <img src="./assets/skills/cplusplus.svg" alt="C++" title="C++" height="34"> <img src="./assets/skills/html5.svg" alt="HTML" title="HTML" height="34"> <img src="./assets/skills/css.svg" alt="CSS" title="CSS" height="34"> <img src="./assets/skills/r.svg" alt="R" title="R" height="34"><br>
+  <img src="./assets/skills/mono/python.svg" alt="Python" title="Python" height="34"> <img src="./assets/skills/mono/java.svg" alt="Java" title="Java" height="34"> <img src="./assets/skills/mono/javascript.svg" alt="JavaScript" title="JavaScript" height="34"> <img src="./assets/skills/mono/typescript.svg" alt="TypeScript" title="TypeScript" height="34"> <img src="./assets/skills/mono/c.svg" alt="C" title="C" height="34"> <img src="./assets/skills/mono/cplusplus.svg" alt="C++" title="C++" height="34"> <img src="./assets/skills/mono/html5.svg" alt="HTML" title="HTML" height="34"> <img src="./assets/skills/mono/css.svg" alt="CSS" title="CSS" height="34"> <img src="./assets/skills/mono/r.svg" alt="R" title="R" height="34"><br>
   <sub>Python · Java · SQL · JavaScript · TypeScript · C/C++ · HTML/CSS · R</sub>
-  <br><br>
+</p>
+
+<p align="center">
   <strong>Web & APIs</strong><br>
-  <img src="./assets/skills/react.svg" alt="React" title="React" height="34"> <img src="./assets/skills/nextjs.svg" alt="Next.js" title="Next.js" height="34"> <img src="./assets/skills/nodejs.svg" alt="Node.js" title="Node.js" height="34"> <img src="./assets/skills/graphql.svg" alt="GraphQL" title="GraphQL" height="34"> <img src="./assets/skills/json.svg" alt="JSON" title="JSON" height="34"> <img src="./assets/skills/openapi.svg" alt="OpenAPI" title="REST APIs" height="34"><br>
-  <sub>React · Next.js · Node.js · REST APIs · GraphQL · JSON</sub>
-  <br><br>
+  <img src="./assets/skills/mono/react.svg" alt="React" title="React" height="34"> <img src="./assets/skills/mono/nextjs.svg" alt="Next.js" title="Next.js" height="34"> <img src="./assets/skills/mono/nodejs.svg" alt="Node.js" title="Node.js" height="34"> <img src="./assets/skills/mono/graphql.svg" alt="GraphQL" title="GraphQL" height="34"> <img src="./assets/skills/mono/json.svg" alt="JSON" title="JSON" height="34"> <img src="./assets/skills/mono/openapi.svg" alt="OpenAPI" title="REST APIs and API Design" height="34"><br>
+  <sub>React · Next.js · Node.js · REST APIs · GraphQL · JSON · API Design</sub>
+</p>
+
+<p align="center">
   <strong>Data & AI</strong><br>
-  <img src="./assets/skills/pandas.svg" alt="Pandas" title="Pandas" height="34"> <img src="./assets/skills/numpy.svg" alt="NumPy" title="NumPy" height="34"> <img src="./assets/skills/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" height="34"> <img src="./assets/skills/pytorch.svg" alt="PyTorch" title="PyTorch" height="34"> <img src="./assets/skills/matplotlib.svg" alt="Matplotlib" title="Matplotlib" height="34"><br>
+  <img src="./assets/skills/mono/pandas.svg" alt="Pandas" title="Pandas" height="34"> <img src="./assets/skills/mono/numpy.svg" alt="NumPy" title="NumPy" height="34"> <img src="./assets/skills/mono/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" height="34"> <img src="./assets/skills/mono/pytorch.svg" alt="PyTorch" title="PyTorch" height="34"> <img src="./assets/skills/mono/matplotlib.svg" alt="Matplotlib" title="Matplotlib" height="34"><br>
   <sub>Pandas · NumPy · scikit-learn · PyTorch · Matplotlib · Machine Learning · Data Pipelines</sub>
-  <br><br>
+</p>
+
+<p align="center">
   <strong>Cloud & Databases</strong><br>
-  <img src="./assets/skills/aws.svg" alt="AWS" title="AWS" height="34"> <img src="./assets/skills/lambda.svg" alt="AWS Lambda" title="AWS Lambda" height="34"> <img src="./assets/skills/aws-amazon-rds.svg" alt="Amazon RDS" title="Amazon RDS" height="34"> <img src="./assets/skills/azure.svg" alt="Azure" title="Azure" height="34"> <img src="./assets/skills/databricks.svg" alt="Databricks" title="Databricks" height="34"> <img src="./assets/skills/sqlite.svg" alt="SQLite" title="SQLite" height="34"> <img src="./assets/skills/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="34"><br>
+  <img src="./assets/skills/mono/aws.svg" alt="AWS" title="AWS" height="34"> <img src="./assets/skills/mono/lambda.svg" alt="AWS Lambda" title="AWS Lambda" height="34"> <img src="./assets/skills/mono/aws-amazon-rds.svg" alt="Amazon RDS" title="Amazon RDS" height="34"> <img src="./assets/skills/mono/azure.svg" alt="Azure" title="Azure" height="34"> <img src="./assets/skills/mono/databricks.svg" alt="Databricks" title="Databricks" height="34"> <img src="./assets/skills/mono/sqlite.svg" alt="SQLite" title="SQLite" height="34"> <img src="./assets/skills/mono/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="34"><br>
   <sub>AWS Lambda · Amazon RDS · Azure · Databricks · SQLite · PostgreSQL</sub>
-  <br><br>
+</p>
+
+<p align="center">
   <strong>Tools & Practices</strong><br>
-  <img src="./assets/skills/git.svg" alt="Git" title="Git" height="34"> <img src="./assets/skills/docker.svg" alt="Docker" title="Docker" height="34"> <img src="./assets/skills/microsoft-power-bi.svg" alt="Power BI" title="Power BI" height="34"> <img src="./assets/skills/tableau.svg" alt="Tableau" title="Tableau" height="34"> <img src="./assets/skills/jira.svg" alt="Jira" title="Jira" height="34"> <img src="./assets/skills/pytest.svg" alt="pytest" title="Unit Testing" height="34"><br>
+  <img src="./assets/skills/mono/git.svg" alt="Git" title="Git" height="34"> <img src="./assets/skills/mono/docker.svg" alt="Docker" title="Docker" height="34"> <img src="./assets/skills/mono/microsoft-power-bi.svg" alt="Power BI" title="Power BI" height="34"> <img src="./assets/skills/mono/tableau.svg" alt="Tableau" title="Tableau" height="34"> <img src="./assets/skills/mono/jira.svg" alt="Jira" title="Jira" height="34"> <img src="./assets/skills/mono/pytest.svg" alt="pytest" title="Unit Testing" height="34"><br>
   <sub>Git · Docker · Power BI · Tableau · Jira · SDLC · Agile/Scrum · Unit Testing</sub>
 </p>
 
